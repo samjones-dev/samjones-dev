@@ -14,4 +14,4 @@ Multi-agent systems and models that run where your data lives.
 
 ### Elsewhere
 
-[coprime](https://coprimelabs.com/) · [LinkedIn](https://www.linkedin.com/in/samuel-jonathan-jones) · sam@axiotic.ai
+[coprime](https://coprimelabs.com/) · [LinkedIn](https://www.linkedin.com/in/samuel-jonathan-jones) 
